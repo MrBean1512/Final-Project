@@ -1,0 +1,4 @@
+/*
+The code all works and displays the proper results, however, it gets hung up on the final bracket before returning 0 in the main
+and then it just errors out. I followed the debugger pretty far and it dies in some code that I didn't write. If you happen to see the
+issue, I'd love to figure out the problem
